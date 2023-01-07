@@ -1,0 +1,6 @@
+{
+  "token": "Enter your bot Token",
+  "DataBaseURL": "Enter mongoDB url here",
+  "BrainShopAPI": "http://api.brainshop.ai/get?bid=164005&key=cTGmkvqQaz5dUiW1&uid=",
+  "Anti_Crash_System_Channel_ID": "Anti crash system channel ID (required)"
+}
